@@ -1,3 +1,11 @@
+"""
+TODO:
+1. Integrate with movie API
+2. User Input available
+3. GUI
+4. Voice to words input
+"""
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
